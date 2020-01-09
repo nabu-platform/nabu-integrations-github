@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <swaggerClient>
+    <allowDomain>false</allowDomain>
     <lenient>true</lenient>
     <security>basic</security>
+    <showInterfaces>false</showInterfaces>
     <throwException>false</throwException>
 </swaggerClient>
